@@ -1,0 +1,227 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": " <!DOCTYPE html>\n<html lang=\"pt-br\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Marplay - Montagem de Brinquedos para Parques</title>\n    <link rel=\"stylesheet\" type=\"text/css\" href=\"estilo.css\">\n</head>\n<body>\n    <header>\n        <div class=\"logo\">\n            <h1>Marplay</h1>\n            <p>Montagem de Brinquedos para Parques</p>\n        </div>\n        <nav>\n            <ul>\n                <li><a href=\"#\">Início</a></li>\n                <li><a href=\"#sobre\">Sobre Nós</a></li>\n                <li><a href=\"#servicos\">Serviços</a></li>\n                <li><a href=\"#contato\">Contato</a></li>\n            </ul>\n        </nav>\n    </header>\n\n    <section class=\"hero\">\n        <div class=\"hero-content\">\n            <h2>Transforme Seu Parque com Brinquedos Incríveis!</h2>\n            <p>Oferecemos montagem e manutenção de brinquedos para parques de diversão, garantindo segurança e qualidade.</p>\n        </div>\n    </section>\n\n    <section id=\"sobre\" class=\"sobre\">\n        <h2>Sobre Nós</h2>\n        <p>Na Marplay, temos mais de 10 anos de experiência na montagem de brinquedos para parques de diversão. Nossa missão é oferecer soluções seguras e divertidas para tornar seu parque ainda mais atrativo.</p>\n    </section>\n\n    <section id=\"servicos\" class=\"servicos\">\n        <h2>Serviços</h2>\n        <ul>\n            <li><h3>Montagem de Brinquedos</h3><p>Instalação de brinquedos novos com máxima segurança.</p></li>\n            <li><h3>Manutenção de Brinquedos</h3><p>Verificação e reparos regulares para garantir o bom funcionamento.</p></li>\n            <li><h3>Consultoria em Parques</h3><p>Aconselhamento especializado para otimizar a disposição dos brinquedos.</p></li>\n        </ul>\n    </section>\n\n    <section id=\"contato\" class=\"contato\">\n        <h2>Contato</h2>\n        <p>Entre em contato conosco para mais informações sobre nossos serviços.</p>\n        <form>\n            <label for=\"nome\">Nome:</label>\n            <input type=\"text\" id=\"nome\" name=\"nome\" required>\n            \n            <label for=\"email\">E-mail:</label>\n            <input type=\"email\" id=\"email\" name=\"email\" required>\n            \n            <label for=\"mensagem\">Mensagem:</label>\n            <textarea id=\"mensagem\" name=\"mensagem\" required></textarea>\n            \n            <button type=\"submit\">Enviar</button>\n        </form>\n    </section>\n\n    <footer>\n        <p>&copy; 2024 Marplay | Todos os direitos reservados.</p>\n    </footer>\n</body>\n</html>\n",
+			"file": "/C/Users/nikol/OneDrive/Desktop/Site_Marplay/index.html",
+			"file_size": 2632,
+			"file_write_time": 133790361166937323,
+			"settings":
+			{
+				"buffer_size": 2537,
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					1,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/nikol/OneDrive/Desktop/Site_Marplay",
+		"/C/Users/nikol/OneDrive/Desktop/Site_Marplay/css"
+	],
+	"file_history":
+	[
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/nikol/OneDrive/Desktop/Site_Marplay/index.html",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2537,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1,
+								1
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.html",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
